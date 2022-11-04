@@ -1,0 +1,60 @@
+::selection {
+    background-color: #228a8b;
+    color: #e3e3ec;
+}
+
+/* .navbar-fundo {
+    background-color: #ffffff;
+} */
+
+/* .tamanho-fundo {
+    padding: 60px 0 60px;
+} */
+
+span:hover {
+    color: #2bb3bd;
+}
+
+.nome-projetos {
+
+    margin-left: 75%;
+    color: #f0f8ff;
+    font-size: x-large;
+    font-family: Tourney;
+}
+
+.nome-contato {
+
+    margin-left: 1%;
+    color: #f0f8ff;
+    font-size: x-large;
+    font-family: Tourney;
+}
+
+.nome-sobre {
+
+    margin-left: 1%;
+    color: #f0f8ff;
+    font-size: x-large;
+    font-family: Tourney;
+}
+
+#efeito-navbar {
+    position: relative;
+    top: 0px;
+    padding: 30px;
+    background-color: #228a8b;
+    transition: all .2s ease-in-out
+}
+
+#efeito-navbar:hover {
+    top: -10px;
+    box-shadow: 0 2px 100px #52c9cc;
+}
+
+.img-logo {
+    position: fixed;
+    margin-top: 3%;
+    margin-left: -5%;
+    
+}

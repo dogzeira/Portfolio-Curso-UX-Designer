@@ -1,0 +1,43 @@
+.texto-projetos {
+    text-align: left;
+    margin-top: 6%;
+    font-family: CabinCondensed;
+    font-size: 300%;
+    margin-left: 25%;
+}
+
+.texto-projetos-frase {
+    text-align: center;
+    font-family: Raleway;
+    font-size: 150%;
+    margin-top: -77%;
+}
+
+.img-projeto {
+    margin-left: 62%;
+    opacity: 0;
+    
+}
+
+#slider .img-projeto{
+    opacity: 1;
+}
+
+.img-projeto-2 {
+    margin-left: 62%;
+    margin-top: -33%;
+    opacity: 0;
+    
+}
+
+.alinhamneto-texto-img {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.ajuste-texto {
+    width: 550px;
+    margin-left: 22%;
+}
